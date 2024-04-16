@@ -21,3 +21,5 @@ You should use exactly the listed technologies or one of them if it is allowed:
   - Ant Design
 - State manager:
   - Redux-Toolkit
+
+![image](https://github.com/Aziull/Github-Issues-Board/assets/65764457/0b07b46d-e9df-49dc-9bcc-bfdf0a54526a)
